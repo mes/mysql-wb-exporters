@@ -1,9 +1,9 @@
 mysql-wb-exporters
 ==================
 
-MySQL Workbench Exporters
+<a href="http://dev.mysql.com/downloads/workbench/">MySQL Workbench</a> Exporters to generate database documentation for <a href="http://www.atlassian.com/software/confluence/">Confluence</a> and <a href="http://www.redmine.org/">Redmine</a>/<a href="http://en.wikipedia.org/wiki/Textile_%28markup_language%29">Textile</a>.
 
-Based on <a href="http://ralf.schaeftlein.de/2011/02/24/generating-mysql-database-documentation-for-confluence-with-mysql-workbench-plugin/">work by Ralf Schäftlein</a> (LGPLv3).
+99.9% based on <a href="http://ralf.schaeftlein.de/2011/02/24/generating-mysql-database-documentation-for-confluence-with-mysql-workbench-plugin/">work by Ralf Schäftlein</a> (LGPLv3).
 
 Instructions:
 -------------
